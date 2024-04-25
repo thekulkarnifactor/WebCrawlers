@@ -5,6 +5,7 @@
 
 # Sites
     1. Walmart
+    pip freeze > requirements.txt
         1.1 Navigates to the website
         1.2 Access the product pages
         1.3 Scrape relevent data include as follows
